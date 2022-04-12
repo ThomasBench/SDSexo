@@ -1,0 +1,9 @@
+**/.idea
+**/__pycache__/
+**/data/
+**/.DS_Store
+**/.vscode
+**/.bsp
+**/.vscode
+**/target
+**/project
